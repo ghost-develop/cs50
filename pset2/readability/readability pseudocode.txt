@@ -1,0 +1,17 @@
+TODO:
+1. For every 100 words, grab the average amount of letters. 
+    words = 125
+    wordCounter = 1;
+    
+    for (int i = 0; i < length of words; i++ 
+    {
+        if(isspace(words[i])
+        {
+            wordCounter++;
+        }
+    }
+    
+    if (word length = 100)
+        {
+            divide letters by 100?
+        }

@@ -1,0 +1,14 @@
+    Prompt user for integer >= 8
+    If input is invalid, reprompt the user
+    
+    do
+    {
+        Ask for integer in between 1 - 8
+    }
+    
+    while (integer < 1 && integer > 8)
+    
+    Create the half pyramid
+    
+    for (int i = 0; i <= 8; i++) 
+        printf("#\n");
